@@ -32,7 +32,7 @@
 		<junit-jupiter.version>5.3.1</junit-jupiter.version>
 		<mockito-core.version>2.21.0</mockito-core.version>
 		<mockito-jupiter.version>2.23.0</mockito-jupiter.version>
-		<swagger.version>2.7.0</swagger.version>
+		<swagger.version>2.10.0</swagger.version>
 		<chaos-monkey.version>2.2.0</chaos-monkey.version>
 		<jacoco.reportPath>${user.dir}/target/jacoco.exec</jacoco.reportPath>
 		<org.jacoco.agent.version>0.8.5</org.jacoco.agent.version>
